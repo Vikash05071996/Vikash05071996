@@ -31,7 +31,7 @@ Backend Developer | 🎓 MCA Graduate @ MNNIT Allahabad | ❤ Open Source & Scal
 
 ## 📫 How to Reach Me
 - **Email**: vikashrajpoot2995@gmail.com 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/https://www.linkedin.com/in/vikash-singh-a91808289/)  
+- **LinkedIn**: [https://www.linkedin.com/in/vikash-singh-a91808289/](https://www.linkedin.com/in/https://www.linkedin.com/in/vikash-singh-a91808289/)  
 
 ---
 
