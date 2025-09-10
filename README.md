@@ -19,13 +19,6 @@ Backend Developer | 🎓 MCA Graduate @ MNNIT Allahabad | ❤ Open Source & Scal
 - **Cloud-native backend development** with Docker + Kubernetes  
 - Optimized database sync with **PostgreSQL & SymmetricDS**  
 
----
-
-## 💬 Ask Me About
-- Backend Development (Python, Django, Node.js, PostgreSQL)  
-- Real-time Data Pipelines (Kafka, ClickHouse)  
-- System Design & Data Structures  
-- Docker, Kubernetes, and Cloud Infra  
 
 ---
 
