@@ -1,5 +1,6 @@
 # About Me 🚀
-Backend Developer | 🎓 ECE Grad @ MNNIT Allahabad | ❤ Open Source & Scalable Systems
+Backend Developer | 🎓 MCA Graduate @ MNNIT Allahabad | ❤ Open Source & Scalable Systems
+
 
 ---
 
