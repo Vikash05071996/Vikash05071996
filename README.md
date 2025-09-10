@@ -1,42 +1,48 @@
-# 👋 Hi, I'm Vikash Singh  
-
-🚀 Backend Engineer | Python, Django, Kafka, ClickHouse, PostgreSQL, Node.js, JavaScript, C++  
-💡 Passionate about scalable systems, data pipelines, cloud infra & real-time sync (SymmetricDS, Firebase)  
+# About Me 🚀
+Backend Developer | 🎓 ECE Grad @ MNNIT Allahabad | ❤ Open Source & Scalable Systems
 
 ---
 
-### 🔧 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-FDEE21?logo=clickhouse&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![SymmetricDS](https://img.shields.io/badge/-SymmetricDS-blueviolet?logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+## Things I Do 💻
+- Developed **scalable backends** for real-time data pipelines and distributed systems.  
+- Designed & optimized **data synchronization** using SymmetricDS & Firebase.  
+- Worked with **Kafka + ClickHouse** for streaming and analytical data processing.  
+- Built REST APIs & microservices with **Python (Django/Flask)** and **Node.js**.  
+- Containerized apps with **Docker & Kubernetes** for cloud deployments.  
+- Passionate about **Data Structures & Algorithms** with strong problem-solving skills.  
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikash05071996&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash05071996&layout=compact&theme=radical)
+## 🌱 Currently Exploring
+- Advanced **Distributed Systems** & **Real-time Data Streaming**  
+- **Cloud-native backend development** with Docker + Kubernetes  
+- Optimized database sync with **PostgreSQL & SymmetricDS**  
 
 ---
 
-### 🌱 Currently Learning
-- Cloud & Distributed Systems  
-- Real-time Database Sync (SymmetricDS, Firebase)  
-- Advanced Kafka & Data Streaming  
+## 💬 Ask Me About
+- Backend Development (Python, Django, Node.js, PostgreSQL)  
+- Real-time Data Pipelines (Kafka, ClickHouse)  
+- System Design & Data Structures  
+- Docker, Kubernetes, and Cloud Infra  
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/vikash-singh-a91808289/)  
-
+## 📫 How to Reach Me
+- **Email**: vikashrajpoot2995@gmail.com 
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/https://www.linkedin.com/in/vikash-singh-a91808289/)  
 
 ---
-⚡ Fun fact: I debug with ☕ chai more than coffee!
+
+## 🛠 Tools & Tech I Use
+- **Languages**: Python, JavaScript, Node.js, C++, SQL  
+- **Frameworks**: Django, Flask, Express.js  
+- **Databases**: PostgreSQL, ClickHouse, Firebase, MongoDB  
+- **Messaging/Streaming**: Kafka  
+- **DevOps**: Docker, Kubernetes, GitHub Actions  
+- **Others**: REST APIs, WebSockets, System Design  
+
+---
+
+## ⚡ Fun Fact
+I debug more with ☕ chai than coffee 😄
